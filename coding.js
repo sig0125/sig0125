@@ -19,4 +19,4 @@ app.get('/minday1', function (req, res) {
 
 app.listen(3000, function () {
     console.log("System is working")
-})
+})//아무말 
